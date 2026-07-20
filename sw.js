@@ -1,10 +1,10 @@
 const CACHE_NAME = "sorpresa-cine-v1";
 const ASSETS = [
-  "./sorpresa-cine.html",
+  "./index.html",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
-  "./boleto.jpg"
+  "./boleto.jpeg"
 ];
 
 self.addEventListener("install", (event) => {
